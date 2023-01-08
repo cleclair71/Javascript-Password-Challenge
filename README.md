@@ -85,7 +85,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Cassie LeClair - cassieleclair71@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Deployed Website: [https://cleclair71.github.io/Javascript-Password-Challenge/](https://cleclair71.github.io/Javascript-Password-Challenge/)
+Repository Link: [https://cleclair71.github.io/Javascript-Password-Challenge/](https://cleclair71.github.io/Javascript-Password-Challenge/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
