@@ -85,8 +85,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Cassie LeClair - cassieleclair71@gmail.com
 
-* Deployed Website: [https://cleclair71.github.io/RandomPasswordGenerator/]([https://cleclair71.github.io/RandomPasswordGenerator/])
-* Repository Link: [https://github.com/cleclair71/RandomPasswordGenerator]([https://github.com/cleclair71/RandomPasswordGenerator])
+* Deployed Website: [https://cleclair71.github.io/RandomPasswordGenerator/](#https://cleclair71.github.io/RandomPasswordGenerator/)
+* Repository Link: [https://github.com/cleclair71/RandomPasswordGenerator](#https://github.com/cleclair71/RandomPasswordGenerator)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
